@@ -1,7 +1,7 @@
 name: Mena
 favicon: null
-layout_spectrum: 0.6678193050902337
-typography_spectrum: 0.08110386808402836
+layout_spectrum: 0.9946
+typography_spectrum: 0.00652
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.1349922800436616
-  lightness: 0.49841388943605125
-  saturation: 0.5399505367968231
-  rhythmicContrast: 0.5998218087479472
+  brandStrength: 0.125
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
