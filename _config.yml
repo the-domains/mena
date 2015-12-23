@@ -1,0 +1,28 @@
+name: Mena
+favicon: null
+layout_spectrum: 0.6678193050902337
+typography_spectrum: 0.08110386808402836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1349922800436616
+  lightness: 0.49841388943605125
+  saturation: 0.5399505367968231
+  rhythmicContrast: 0.5998218087479472
+purpose: []
