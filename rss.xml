@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Mena]]></title>
         <description><![CDATA[Mena]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mena/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 19:41:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 19:47:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mena/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[welcome to mena pepper dot com]]></title>
-            <description><![CDATA[<article><h1>welcome to mena pepper dot com</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fd2dbeec5959ac9dde814d34d97c1115ab5f2af.jpg"></article>]]></description>
-            <link>undefinedwelcome-to-mena-pepper-dot-com/index.html</link>
+            <description><![CDATA[<article><h1>welcome to mena pepper dot com</h1><p>Mena we love you so much.  Hopefully this site will be a place you can come to, to see all the fun things you've done over the years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b22153bcfdb79e4818d78bb85b9dff5ca168ba0c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mena/welcome-to-mena-pepper-dot-com/index.html</link>
             <guid isPermaLink="false">d10f2f53-3435-4106-8d61-5fea093cdc07</guid>
             <pubDate>Wed, 23 Dec 2015 19:41:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c083543ca73d0439f30349220f77c714e8235464.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mena/welcome/index.html</link>
+            <guid isPermaLink="false">6a874bf3-530e-42be-9aa4-316b2fd4e771</guid>
+            <pubDate>Wed, 23 Dec 2015 19:47:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
